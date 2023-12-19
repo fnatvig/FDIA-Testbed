@@ -1,4 +1,4 @@
-# FDIALAB (alternatively "PowerSecurityLab")
+# FDILAB
 A False Data Injection Attack (FDIA) Simulator (development branch)
 
 # Prerequisites
